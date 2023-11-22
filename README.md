@@ -8,3 +8,8 @@ Its a Tool 🔥 You can auto Report any fb user/page without login
 
 # Installation Termux :
 
+       git clone https://github.com/LMNx9-JOHNY/FB_Report_x9
+       cd FB_Report_x9
+       ls
+       git pull
+       python3 LMNx9-Report.py
