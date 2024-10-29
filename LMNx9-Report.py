@@ -1,10 +1,10 @@
 #--------------------------------------------------
-#--------DARK TEAM LMNx9--------
+#--------CYB3R TEAM ™--------
 #--------------------------------------------------
-#Encoder : LIMON HOSSAIN
-#Facebook : LJ.LMNx9
-#GitHub : LMNx9-JOHNY
-#Telegram : DARK_LMNx9
+#Encoder : SHARIAR SAKIB
+#Facebook : shariar.sakib.official
+#GitHub : Chopperkutt9
+#Youtube : SHARIAR SAKIB
 #--------------------------------------------------
 
 
